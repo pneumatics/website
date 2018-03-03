@@ -1,4 +1,4 @@
 .sass-cache
-_site
-_includes
-_layouts
+_site/
+_includes/
+_layouts/
