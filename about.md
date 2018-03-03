@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Logs of technology enthusiast. You may find me using Enlish / മലയളം
+Logs of technology enthusiast. You may find me using Enlish / മലയാളം
